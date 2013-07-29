@@ -1,0 +1,29 @@
+﻿@model FysEtt.Models.RegisterViewModel
+
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Layouts/DefaultLayout.cshtml";
+}
+
+<h2>Registrera</h2>
+@using (Html.BeginForm())
+{
+    <div class="field">
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email)
+        @Html.ValidationMessageFor(m => m.Email)
+    </div>
+    <div class="field">
+        @Html.LabelFor(m => m.Password)
+        @Html.TextBoxFor(m => m.Password)
+        @Html.ValidationMessageFor(m => m.Password)
+    </div>
+    <div class="field">
+        @Html.LabelFor(m => m.RepeatedPassword)
+        @Html.TextBoxFor(m => m.RepeatedPassword)
+        @Html.ValidationMessageFor(m => m.RepeatedPassword)
+    </div>
+    <div>
+        <button type="submit">Registrera</button>
+    </div>
+}

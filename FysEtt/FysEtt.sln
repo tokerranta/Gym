@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Web
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FysEtt", "FysEtt\FysEtt.csproj", "{BC3CE101-DCEF-4114-BE63-B94B5E72AE3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FysEtt.Web", "FysEtt\FysEtt.Web.csproj", "{BC3CE101-DCEF-4114-BE63-B94B5E72AE3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FysEtt.Data", "FysEtt.Data\FysEtt.Data.csproj", "{CA8F2299-7A1D-4D2E-A477-7D4C791FD80A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FysEtt.Models", "FysEtt.Models\FysEtt.Models.csproj", "{83C8F11E-712A-4418-A034-8D4E61B7D7FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,14 @@ Global
 		{BC3CE101-DCEF-4114-BE63-B94B5E72AE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC3CE101-DCEF-4114-BE63-B94B5E72AE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC3CE101-DCEF-4114-BE63-B94B5E72AE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8F2299-7A1D-4D2E-A477-7D4C791FD80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8F2299-7A1D-4D2E-A477-7D4C791FD80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8F2299-7A1D-4D2E-A477-7D4C791FD80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8F2299-7A1D-4D2E-A477-7D4C791FD80A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C8F11E-712A-4418-A034-8D4E61B7D7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C8F11E-712A-4418-A034-8D4E61B7D7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C8F11E-712A-4418-A034-8D4E61B7D7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C8F11E-712A-4418-A034-8D4E61B7D7FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
