@@ -1,0 +1,10 @@
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Data\obj\Debug\FysEtt.Data.csprojResolveAssemblyReference.cache
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Data\bin\Debug\FysEtt.Data.dll.config
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Data\bin\Debug\FysEtt.Data.dll
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Data\bin\Debug\FysEtt.Data.pdb
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Data\bin\Debug\EntityFramework.dll
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Data\bin\Debug\FysEtt.Models.dll
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Data\bin\Debug\FysEtt.Models.pdb
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Data\bin\Debug\EntityFramework.xml
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Data\obj\Debug\FysEtt.Data.dll
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Data\obj\Debug\FysEtt.Data.pdb
