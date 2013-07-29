@@ -1,0 +1,5 @@
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Models\bin\Debug\FysEtt.Models.dll
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Models\bin\Debug\FysEtt.Models.pdb
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Models\obj\Debug\FysEtt.Models.dll
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Models\obj\Debug\FysEtt.Models.pdb
+C:\Users\mago\Documents\Visual Studio 2012\Projects\FysEttGit\FysEtt\FysEtt.Models\obj\Debug\FysEtt.Models.csprojResolveAssemblyReference.cache
